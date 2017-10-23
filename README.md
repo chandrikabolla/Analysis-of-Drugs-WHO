@@ -3,7 +3,8 @@
                 Analysis of Efficacy of Drugs that treat Hypothyroidism
 ```
 ![](images/who-logo.jpg)
- [Link to the project](https://github.com/chandrikabolla/aed_project) In case if you missed the direct link to my project on github 
+ [Link to the project](https://github.com/chandrikabolla/aed_project) In case if you missed the direct link to my project on github
+ * README files are included in each directory of this project to understand the structure and components of this project
 ## Getting Started
  [Link to src](https://github.com/chandrikabolla/aed_project/tree/master/FinalProject%20Sat/FinalProject/src)- click on this link for direct access to src folder 
 Otherwise, you can go through FinalProject Sat/FinalProject/src
