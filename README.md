@@ -19,7 +19,7 @@ You can download latest version of this IDE from this [link](https://netbeans.or
  For example: `cd  C:/users/chand/FinalProject Sat/FinalProject/src/userinterface `
 * And compile the java file using the command `javac MainJFrame.java` 
 * And then run it using `java MainJFrame` , and there you get this big screen like below
-image
+![](images/homepage.png)
 
  
 ### Installing
