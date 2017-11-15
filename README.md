@@ -48,6 +48,6 @@ You can build an executable jar file for quick run of this project on Netbeans a
 * [Chandrika Bolla](https://github.com/chandrikabolla)
 ### License
 Reviewed and licensed under Northeatern's Academic Policy of Projects and Assignments
-### Acknoledgements
+### Acknowledgements
 * Thanks to the Teaching Assistants and Professor Bugrara for the rigorous assignments in Java and Object Oriented Concepts
 * Inspiration from WHO - the only organization committed and dedicated to healthcare services for its 195 state members
